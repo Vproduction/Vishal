@@ -1,0 +1,37 @@
+body{
+	
+}
+
+.span1{
+	font-family:Bell MT;
+}
+
+
+
+.nav1{
+	color:lightyellow;
+	font-weight:bold;
+	font-size:18px;
+	font-family:Bell MT;
+}
+
+
+.cl1_pad{
+	padding:20px;
+}
+
+
+.clas2{
+	font-family:Badoni MT;
+	font-size:18px;
+}
+
+.clas3{
+	font-family:Badoni MT;
+	font-size:18px;
+	text-decoration:underline;
+}
+
+.cl3{
+    background-color:lightgray;
+}
